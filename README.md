@@ -6,4 +6,4 @@
 
 ## Mobile view
 ![Image 4](/src/assets/images/Image-4.png);
-![Image 5](/src/assets/images/Image-5.png);
+![Image 5](/src/assets/images/image-5.png);
